@@ -1,4 +1,4 @@
-GitHub User Activity Tracker
+## GitHub User Activity Tracker
 
 A simple **Java command-line application** that fetches and displays recent GitHub user activity using the **GitHub REST API**.  
 This project demonstrates working with APIs, JSON parsing, and handling HTTP requests in Java.
@@ -13,7 +13,7 @@ Features
 
 ---
 
-## 📂 Tech Stack
+Tech Stack
 - **Java 11+**
 - **HTTP Client (java.net.http)**
 - **org.json** library for parsing JSON
